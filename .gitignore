@@ -12,5 +12,5 @@ shaderpacks/
 
 *.dat
 *.dll
-*.txt
+options.txt
 *.json

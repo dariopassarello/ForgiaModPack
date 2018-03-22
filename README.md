@@ -36,7 +36,7 @@ Appena si apre la schermata iniziale di Minecraft potete chiudere il gioco e il 
 
 Scaricate Forge dal seguente link:
 
-https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.2.2629/forge-1.12.2-14.23.2.2629-installer.jar
+https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.2.2611/forge-1.12.2-14.23.2.2611-installer.jar
 
 Installatelo facendo doppio click.
 

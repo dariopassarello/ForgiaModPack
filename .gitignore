@@ -1,0 +1,16 @@
+# Cartelle da ignorare
+
+crash-reports/
+journeymap/
+local/
+logs/
+resourcepacks/
+saves/
+shaderpacks/
+
+# File da ignorare nel root
+
+*.dat
+*.dll
+*.txt
+*.json

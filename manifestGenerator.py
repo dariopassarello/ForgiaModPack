@@ -11,10 +11,10 @@ urlConfig = url + "/repos/dariopassarello/ForgiaModPack/contents/config"
 urlAuth = url + "/repos/d/ForgiaModPack"
 urlRate = url + "/rate_limit"
 user = "spiritodellaforgia@gmail.com"
-password = "**********" #Inserire password
+password = "forgia0612"
 
 
-
+# Restituisce il numero di richieste  rimanenti sull'api di github
 def getNumberOfRequest():
     authResponse = requests.get(urlRate, auth=(user, password))
     print(authResponse.content)
@@ -28,6 +28,8 @@ pathsToVisit: array che contiene le cartelle che devono essere analizzate ricors
 outputJsonArray: Un array passato inizialmente vuoto 
 '''
 def getTreeJson(homeUrl,pathsToVisit,outputJsonArray):
+    files = 0
+    subFolders = 0
     for dirToVisit in pathsToVisit:
         jsonTreeResponse = requests.get(homeUrl + dirToVisit,auth=(user, password))
         jsonTreeString  = jsonTreeResponse.content.decode()
@@ -35,16 +37,28 @@ def getTreeJson(homeUrl,pathsToVisit,outputJsonArray):
         for element in jsonTreeArray:
             if element['type'] == 'file':
                 elementStruct = {}
-                print()
+                print("Found file: ",element['path'])
+                files = files + 1
                 elementStruct['path'] = element['path']
                 elementStruct['download_url'] = element['download_url']
                 outputJsonArray.append(elementStruct)
             else:
+                subFolders = subFolders + 1
                 newPaths = []
+                print("Found folder: ",element['path'])
                 newPaths.append(element['path'])
                 getTreeJson(homeUrl,newPaths,outputJsonArray)
-    return json.dumps(outputJsonArray)
+    print("FOLDER ",dirToVisit," FINISHED")
+    print("NUMBER OF FILES FOUND:",files)
+    print("NUMBER OF FOLDERS FOUND:",subFolders)
+    print("--------------------------------------------")
+    return json.dumps(outputJsonArray,indent=4)
 
 ogg = []
-print(getTreeJson(urlBase,['mods','config'],ogg))
-
+print("JSON PARSER")
+print("NUMBER OF REQUEST REMAINING: ",getNumberOfRequest)
+jsonOut = getTreeJson(urlBase,['mods','config'],ogg)
+print("SCAN COMPLETED\nHERE'S THE JSON:\n",jsonOut)
+print("You can find the json in manifest.json")
+f = open("manifest.json","w")
+f.write(jsonOut)

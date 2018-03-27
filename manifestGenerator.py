@@ -14,7 +14,7 @@ user = "spiritodellaforgia@gmail.com"
 password = "forgia0612"
 
 
-# Restituisce il numero di richieste  rimanenti sull'api di github
+
 def getNumberOfRequest():
     authResponse = requests.get(urlRate, auth=(user, password))
     print(authResponse.content)
@@ -41,7 +41,8 @@ def getTreeJson(homeUrl,pathsToVisit,outputJsonArray):
                 files = files + 1
                 elementStruct['path'] = element['path']
                 elementStruct['download_url'] = element['download_url']
-                outputJsonArray.append(elementStruct)
+                elementStruct['size'] = element['size']
+                outputJsonArray['files'].append(elementStruct)
             else:
                 subFolders = subFolders + 1
                 newPaths = []
@@ -54,9 +55,26 @@ def getTreeJson(homeUrl,pathsToVisit,outputJsonArray):
     print("--------------------------------------------")
     return json.dumps(outputJsonArray,indent=4)
 
-ogg = []
+def getDirsHashesJson(homeUrl,dirsToSearch,outputJsonStruct):
+    outputJsonStruct['hashes'] = []
+    jsonString = requests.get(homeUrl, auth=(user,password)).content.decode()
+    jsonArray = json.loads(jsonString)
+    for dirName in dirsToSearch:
+        for object in jsonArray:
+            if dirName == object['name']:
+                jsonHashStruct = {}
+                jsonHashStruct['name'] = object['name']
+                jsonHashStruct['hash'] = object['sha']
+                outputJsonStruct['hashes'].append(jsonHashStruct)
+    return json.dumps(outputJsonStruct,indent=4)
+
+
+
+ogg = {}
+getDirsHashesJson(urlBase,['mods','config'],ogg)
 print("JSON PARSER")
-print("NUMBER OF REQUEST REMAINING: ",getNumberOfRequest)
+print("NUMBER OF REQUEST REMAINING: ",getNumberOfRequest())
+ogg['files'] = []
 jsonOut = getTreeJson(urlBase,['mods','config'],ogg)
 print("SCAN COMPLETED\nHERE'S THE JSON:\n",jsonOut)
 print("You can find the json in manifest.json")

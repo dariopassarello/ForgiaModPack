@@ -11,7 +11,8 @@ urlConfig = url + "/repos/dariopassarello/ForgiaModPack/contents/config"
 urlAuth = url + "/repos/d/ForgiaModPack"
 urlRate = url + "/rate_limit"
 user = "spiritodellaforgia@gmail.com"
-password = "*******" #pASSWORD HERE
+password = "********" #password here
+
 
 
 def getNumberOfRequest():
@@ -41,6 +42,7 @@ def getTreeJson(homeUrl,pathsToVisit,outputJsonArray):
                 elementStruct['path'] = element['path']
                 elementStruct['download_url'] = element['download_url']
                 elementStruct['size'] = element['size']
+                elementStruct['hash'] = element['sha']
                 outputJsonArray['files'].append(elementStruct)
             else:
                 subFolders = subFolders + 1

@@ -11,7 +11,7 @@ urlConfig = url + "/repos/dariopassarello/ForgiaModPack/contents/config"
 urlAuth = url + "/repos/d/ForgiaModPack"
 urlRate = url + "/rate_limit"
 user = "spiritodellaforgia@gmail.com"
-password = "********" #password here
+password = "*********" #Password Here
 
 
 
@@ -25,7 +25,7 @@ def getNumberOfRequest():
 '''
 homeUrl: Root del repo e.g. /repos/dariopassarello/ForgiaModPack/contents
 pathsToVisit: array che contiene le cartelle che devono essere analizzate ricorsivamente
-outputJsonArray: Un array passato inizialmente o con altri dati
+outputJsonArray: Un array passato inizialmente vuoto 
 '''
 def getTreeJson(homeUrl,pathsToVisit,outputJsonArray):
     files = 0
@@ -72,11 +72,12 @@ def getDirsHashesJson(homeUrl,dirsToSearch,outputJsonStruct):
 
 
 ogg = {}
-getDirsHashesJson(urlBase,['mods','config'],ogg)
+dirs = ['mods','config','scripts']
+getDirsHashesJson(urlBase,dirs,ogg)
 print("JSON PARSER")
 print("NUMBER OF REQUEST REMAINING: ",getNumberOfRequest())
 ogg['files'] = []
-jsonOut = getTreeJson(urlBase,['mods','config'],ogg)
+jsonOut = getTreeJson(urlBase,dirs,ogg)
 print("SCAN COMPLETED\nHERE'S THE JSON:\n",jsonOut)
 print("You can find the json in manifest.json")
 f = open("manifest.json","w")

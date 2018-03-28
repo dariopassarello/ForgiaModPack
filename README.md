@@ -34,9 +34,9 @@ Appena si apre la schermata iniziale di Minecraft potete chiudere il gioco e il 
 
 ### Passo 3: Installazione di Forge
 
-Scaricate Forge dal seguente link:
+Scaricate Forge (Versione per 1.12.2 - 14.23.2.2640) dal seguente link:
 
-https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.2.2611/forge-1.12.2-14.23.2.2611-installer.jar
+http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.2.2640/forge-1.12.2-14.23.2.2640-installer.jar
 
 Installatelo facendo doppio click.
 

@@ -25,7 +25,7 @@ def getNumberOfRequest():
 '''
 homeUrl: Root del repo e.g. /repos/dariopassarello/ForgiaModPack/contents
 pathsToVisit: array che contiene le cartelle che devono essere analizzate ricorsivamente
-outputJsonArray: Un array passato inizialmente vuoto 
+outputJsonArray: Un array passato inizialmente o con altri dati
 '''
 def getTreeJson(homeUrl,pathsToVisit,outputJsonArray):
     files = 0

@@ -7,6 +7,10 @@
         {
             "name": "config",
             "hash": "7cef5def26063aa915fc227a6a475f9c943b75cd"
+        },
+        {
+            "name": "scripts",
+            "hash": "7d734eadc9bb7d6f34e219222759fb5a434d2d42"
         }
     ],
     "files": [
@@ -1053,6 +1057,12 @@
             "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/totemic.cfg",
             "size": 553,
             "hash": "e89f30dc1ac9dd2c51219ea27f01140fc262931b"
+        },
+        {
+            "path": "scripts/prova.txt",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/scripts/prova.txt",
+            "size": 63,
+            "hash": "170e9b1931651174df81262efa4f3b4393f227d8"
         }
     ]
 }

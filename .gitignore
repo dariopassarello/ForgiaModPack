@@ -7,10 +7,13 @@ logs/
 resourcepacks/
 saves/
 shaderpacks/
+.mixin.out/
+fonts/
 
 # File da ignorare nel root
 
 *.dat
 *.dll
 options.txt
+optionsof.txt
 *.json

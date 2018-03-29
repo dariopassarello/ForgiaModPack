@@ -2,7 +2,7 @@
     "hashes": [
         {
             "name": "mods",
-            "hash": "918d49977e89bfa711572126b1bfdd36fb9fb49d"
+            "hash": "cd407e17632307cbcef516073f0a2da4b15bec94"
         },
         {
             "name": "config",
@@ -559,12 +559,6 @@
             "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/moartinkers-0.5.4.jar",
             "size": 70050,
             "hash": "12160c98ecbbb87c31b0d1436143d83d313004f9"
-        },
-        {
-            "path": "mods/movingworld-1.12-6.342-full.jar",
-            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/movingworld-1.12-6.342-full.jar",
-            "size": 1255887,
-            "hash": "c0b3f18b205d2e880ecd71b8160e1a4545ae9ad3"
         },
         {
             "path": "mods/notenoughwands-1.12-1.6.1.jar",

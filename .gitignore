@@ -7,10 +7,15 @@ logs/
 resourcepacks/
 saves/
 shaderpacks/
+.mixin.out/
+fonts/
+HammerCore/
 
 # File da ignorare nel root
 
 *.dat
 *.dll
 options.txt
+optionsof.txt
 *.json
+crafttweaker.log

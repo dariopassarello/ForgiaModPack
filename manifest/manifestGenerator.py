@@ -11,7 +11,7 @@ urlConfig = url + "/repos/dariopassarello/ForgiaModPack/contents/config"
 urlAuth = url + "/repos/d/ForgiaModPack"
 urlRate = url + "/rate_limit"
 user = "spiritodellaforgia@gmail.com"
-password = "*********" #Password Here
+password = "forgia0612" #Password Here
 
 
 
@@ -31,6 +31,8 @@ def getTreeJson(homeUrl,pathsToVisit,outputJsonArray):
     files = 0
     subFolders = 0
     for dirToVisit in pathsToVisit:
+        if dirToVisit == 'mods/hats':
+                continue
         jsonTreeResponse = requests.get(homeUrl + dirToVisit,auth=(user, password))
         jsonTreeString  = jsonTreeResponse.content.decode()
         jsonTreeArray = json.loads(jsonTreeString)

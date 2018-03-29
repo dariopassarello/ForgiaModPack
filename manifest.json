@@ -1,0 +1,1068 @@
+{
+    "hashes": [
+        {
+            "name": "mods",
+            "hash": "335200b7320fd3120b510c61bd33ab46d8c71521"
+        },
+        {
+            "name": "config",
+            "hash": "7cef5def26063aa915fc227a6a475f9c943b75cd"
+        },
+        {
+            "name": "scripts",
+            "hash": "7d734eadc9bb7d6f34e219222759fb5a434d2d42"
+        }
+    ],
+    "files": [
+        {
+            "path": "mods/Aroma1997Core-1.12.2-1.3.0.2.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Aroma1997Core-1.12.2-1.3.0.2.jar",
+            "size": 220072,
+            "hash": "6f17535f9ab67d422653a1fa268943485958cb01"
+        },
+        {
+            "path": "mods/Aroma1997s-Dimensional-World-1.12-1.3.0.0.b37.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Aroma1997s-Dimensional-World-1.12-1.3.0.0.b37.jar",
+            "size": 43154,
+            "hash": "40cc7e7064cd3d0e06ed1fc725ce01202d46a791"
+        },
+        {
+            "path": "mods/AutoRegLib-1.3-15.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/AutoRegLib-1.3-15.jar",
+            "size": 63089,
+            "hash": "4ddc9c13c3871e99a95ee122ddafa6f4085b7bc1"
+        },
+        {
+            "path": "mods/AutomatedRedstone-1.12.2-6.1.0.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/AutomatedRedstone-1.12.2-6.1.0.jar",
+            "size": 296438,
+            "hash": "4bd31dac0fc8ff01a4087f06aed02cc285eba9fb"
+        },
+        {
+            "path": "mods/Baubles-1.12-1.5.2.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Baubles-1.12-1.5.2.jar",
+            "size": 108450,
+            "hash": "e99f1d9618995f7f105221b13176e6f96255653a"
+        },
+        {
+            "path": "mods/BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/BetterBuildersWands-1.12-0.11.1.245%2B69d0d70.jar",
+            "size": 75709,
+            "hash": "39887b4bff742d54f25b36fb49c251e97286bb04"
+        },
+        {
+            "path": "mods/BiblioCraft[v2.4.3][MC1.12.0].jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/BiblioCraft%5Bv2.4.3%5D%5BMC1.12.0%5D.jar",
+            "size": 5148425,
+            "hash": "78a567641a7ddbc9329e73e4a16668ea13b6ea7a"
+        },
+        {
+            "path": "mods/BloodMagic-1.12.2-2.2.7-90.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/BloodMagic-1.12.2-2.2.7-90.jar",
+            "size": 6634817,
+            "hash": "aee425a70207a645a1efa2da7fd440c0e1dfe44a"
+        },
+        {
+            "path": "mods/Botania r1.10-353.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Botania%20r1.10-353.jar",
+            "size": 13582605,
+            "hash": "6a951de3b736ee7c1deaaac41f8110c665981028"
+        },
+        {
+            "path": "mods/CD4017BE_lib-1.12.2-6.0.8.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/CD4017BE_lib-1.12.2-6.0.8.jar",
+            "size": 417978,
+            "hash": "7d2694454fba500349beebc226b8dc2c4813b43c"
+        },
+        {
+            "path": "mods/CTM-MC1.12-0.2.3.12.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/CTM-MC1.12-0.2.3.12.jar",
+            "size": 181856,
+            "hash": "a721c245f1ae1fc489fd4888d03999abd78ccb3d"
+        },
+        {
+            "path": "mods/Chameleon-1.12-4.1.3.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Chameleon-1.12-4.1.3.jar",
+            "size": 96859,
+            "hash": "dc96fa12932da11596f8a4cefd1fe47b2719b5ef"
+        },
+        {
+            "path": "mods/Chisel-MC1.12.2-0.2.0.31.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Chisel-MC1.12.2-0.2.0.31.jar",
+            "size": 4294434,
+            "hash": "565535219e47f5fb45500eeb7a5f17f7b2e0f55f"
+        },
+        {
+            "path": "mods/CoFHCore-1.12.2-4.3.10.5-universal.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/CoFHCore-1.12.2-4.3.10.5-universal.jar",
+            "size": 764904,
+            "hash": "a47da2ae9e220893e9a2edade610a4efcb2e1126"
+        },
+        {
+            "path": "mods/CoFHWorld-1.12.2-1.1.1.12-universal.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/CoFHWorld-1.12.2-1.1.1.12-universal.jar",
+            "size": 399333,
+            "hash": "d26b0c3b7476d17532b57c30edb1a8403e1573ba"
+        },
+        {
+            "path": "mods/CodeChickenLib-1.12.2-3.1.5.331-universal.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/CodeChickenLib-1.12.2-3.1.5.331-universal.jar",
+            "size": 650693,
+            "hash": "c423a831de1684965f3e8df57964c348ecacd56b"
+        },
+        {
+            "path": "mods/CookingForBlockheads_1.12.1-6.3.17.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/CookingForBlockheads_1.12.1-6.3.17.jar",
+            "size": 487924,
+            "hash": "c3bc8c01ee0079f261edb488ec5b6aa98997b904"
+        },
+        {
+            "path": "mods/EnderStorage-1.12.2-2.4.2.126-universal.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/EnderStorage-1.12.2-2.4.2.126-universal.jar",
+            "size": 221404,
+            "hash": "364b4842736f8f32435891eed17941f87b8061f7"
+        },
+        {
+            "path": "mods/FoamFix-1.12.2-0.9.2-Anarchy.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/FoamFix-1.12.2-0.9.2-Anarchy.jar",
+            "size": 189185,
+            "hash": "0547a3e33a5a51f42af5f5d077c6c6c89826225f"
+        },
+        {
+            "path": "mods/Forgelin-1.6.0.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Forgelin-1.6.0.jar",
+            "size": 3984198,
+            "hash": "6ca0f28abaca840f7c3e84991b47c121b29646cf"
+        },
+        {
+            "path": "mods/Guide-API-1.12-2.1.4-57.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Guide-API-1.12-2.1.4-57.jar",
+            "size": 164579,
+            "hash": "b9020dcf9e737f69f722786794f701ce9a8d26f8"
+        },
+        {
+            "path": "mods/ImmersiveEngineering-0.12-76-core.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/ImmersiveEngineering-0.12-76-core.jar",
+            "size": 7235,
+            "hash": "c49fc0761e484f7374bf335a3e52e335ece70c3f"
+        },
+        {
+            "path": "mods/ImmersiveEngineering-0.12-76.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/ImmersiveEngineering-0.12-76.jar",
+            "size": 5937804,
+            "hash": "4f49ce1025a7c65eae6a7bfd30f27bfc361e7d8f"
+        },
+        {
+            "path": "mods/IntegrationForegoing-1.12.2-1.5.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/IntegrationForegoing-1.12.2-1.5.jar",
+            "size": 85263,
+            "hash": "4202c3cf324f17ff2755d152617811878fff24b4"
+        },
+        {
+            "path": "mods/InventoryTweaks-1.63.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/InventoryTweaks-1.63.jar",
+            "size": 263258,
+            "hash": "8e47ef82e8f8468bcff37c919d03088758be6cf9"
+        },
+        {
+            "path": "mods/JEHC-1.12.2-1.4.1.0.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/JEHC-1.12.2-1.4.1.0.jar",
+            "size": 33945,
+            "hash": "ba7bb909a84dd376001cea03c90dec4be6823a47"
+        },
+        {
+            "path": "mods/JustEnoughResources-1.12.2-0.8.5.27.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/JustEnoughResources-1.12.2-0.8.5.27.jar",
+            "size": 213675,
+            "hash": "85020bb2904703b393f06f44c4b7701452402ecd"
+        },
+        {
+            "path": "mods/Mantle-1.12-1.3.1.21.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Mantle-1.12-1.3.1.21.jar",
+            "size": 865513,
+            "hash": "c53a0c82a1e1ebfef9bb378ed29acb0c0caf8143"
+        },
+        {
+            "path": "mods/Mekanism-1.12.2-9.4.3.330.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Mekanism-1.12.2-9.4.3.330.jar",
+            "size": 15993190,
+            "hash": "24574ef9a5add38bb71aacf7d197a104297325d8"
+        },
+        {
+            "path": "mods/MekanismGenerators-1.12.2-9.4.3.330.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/MekanismGenerators-1.12.2-9.4.3.330.jar",
+            "size": 338420,
+            "hash": "1b985978d63914b6ddd392260cab386ca2beeb56"
+        },
+        {
+            "path": "mods/MekanismTools-1.12.2-9.4.3.330.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/MekanismTools-1.12.2-9.4.3.330.jar",
+            "size": 161111,
+            "hash": "f5999031e0f5b6e7b021f002d321536cefcfe9b7"
+        },
+        {
+            "path": "mods/OpenComputers-MC1.12.1-1.7.1.43.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/OpenComputers-MC1.12.1-1.7.1.43.jar",
+            "size": 14351285,
+            "hash": "2434db1d21492d2e0ac006685ab94daa5abf8128"
+        },
+        {
+            "path": "mods/OptiFine_1.12.2_HD_U_C9.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/OptiFine_1.12.2_HD_U_C9.jar",
+            "size": 2334134,
+            "hash": "a9a9709582f0d3351a28bd1d98e7500b1dd16ba7"
+        },
+        {
+            "path": "mods/Pam's+HarvestCraft+1.12.2r.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Pam's%2BHarvestCraft%2B1.12.2r.jar",
+            "size": 4180668,
+            "hash": "ac6e65286647e94730970eb67791acf36601e157"
+        },
+        {
+            "path": "mods/Psi-r1.1-59.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Psi-r1.1-59.jar",
+            "size": 2177817,
+            "hash": "596561fefdecfde0b65ffb99787765b84a2d346d"
+        },
+        {
+            "path": "mods/Quark-r1.4-122.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Quark-r1.4-122.jar",
+            "size": 1672764,
+            "hash": "e6300bd41a9fa9dd1adb6677df0fbfa4e74b65c3"
+        },
+        {
+            "path": "mods/RedstoneArsenal-1.12.2-2.3.10.4-universal (1).jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/RedstoneArsenal-1.12.2-2.3.10.4-universal%20(1).jar",
+            "size": 227075,
+            "hash": "93e48ad85cd4a124ac366738ec5cc4974fa1a2a8"
+        },
+        {
+            "path": "mods/RedstoneFlux-1.12-2.0.1.2-universal.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/RedstoneFlux-1.12-2.0.1.2-universal.jar",
+            "size": 33436,
+            "hash": "4ef648f926c85012846bfddfba9da1f918bf00e0"
+        },
+        {
+            "path": "mods/Signals-1.12.2-1.2.2-5-universal.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Signals-1.12.2-1.2.2-5-universal.jar",
+            "size": 2010582,
+            "hash": "4961e17a4c8a7702054bfc674e30f6f7435e16fa"
+        },
+        {
+            "path": "mods/SoulShards-TOW-1.12-2.7.6-56.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/SoulShards-TOW-1.12-2.7.6-56.jar",
+            "size": 267559,
+            "hash": "087299090c5a35f12a0e4eef69ff5e9d1f0d5b58"
+        },
+        {
+            "path": "mods/StorageDrawers-1.12.2-5.3.4.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/StorageDrawers-1.12.2-5.3.4.jar",
+            "size": 590377,
+            "hash": "7556f32e07961581886d96c2b919819f795dbfbd"
+        },
+        {
+            "path": "mods/TConstruct-1.12.2-2.9.1.65.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/TConstruct-1.12.2-2.9.1.65.jar",
+            "size": 3760118,
+            "hash": "905024c6f3db9e1a9b9cddcc753e0b72cffbda90"
+        },
+        {
+            "path": "mods/ThermalDynamics-1.12.2-2.3.10.4-universal.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/ThermalDynamics-1.12.2-2.3.10.4-universal.jar",
+            "size": 716384,
+            "hash": "bc47a6961ba70109e75f3b46ce34f9f477e086a5"
+        },
+        {
+            "path": "mods/ThermalExpansion-1.12.2-5.3.10.15-universal.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/ThermalExpansion-1.12.2-5.3.10.15-universal.jar",
+            "size": 2165503,
+            "hash": "de1b7d0b2792825d8b178bd199d38c1a9d5419ab"
+        },
+        {
+            "path": "mods/ThermalFoundation-1.12.2-2.3.10.6-universal.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/ThermalFoundation-1.12.2-2.3.10.6-universal.jar",
+            "size": 2022699,
+            "hash": "a887834d5837ca41ac2a04dd994eb38b5ce1b860"
+        },
+        {
+            "path": "mods/TinkerToolLeveling-1.12-1.0.3.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/TinkerToolLeveling-1.12-1.0.3.jar",
+            "size": 91796,
+            "hash": "975f5dd1b1d94b6c2b695e4f53ac6d0afe1c8585"
+        },
+        {
+            "path": "mods/Totemic-1.12.2-0.10.2.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Totemic-1.12.2-0.10.2.jar",
+            "size": 1002373,
+            "hash": "b913a2d94481d0906239a954168eab9e391ac68d"
+        },
+        {
+            "path": "mods/binnie-mods-1.12.2-2.5.0.130.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/binnie-mods-1.12.2-2.5.0.130.jar",
+            "size": 5797113,
+            "hash": "701adf36a8df2bb36495a9e843a49c70d21533bb"
+        },
+        {
+            "path": "mods/buildcraft-7.99.14.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/buildcraft-7.99.14.jar",
+            "size": 4284190,
+            "hash": "9f9385cf57c2901579b5bb60294068fb63e8748d"
+        },
+        {
+            "path": "mods/chiselsandbits-14.13.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/chiselsandbits-14.13.jar",
+            "size": 695675,
+            "hash": "7656f695cac4720c6e8308d019ddce07102c0671"
+        },
+        {
+            "path": "mods/extrautils2-1.12-1.7.4.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/extrautils2-1.12-1.7.4.jar",
+            "size": 2908857,
+            "hash": "7e9f8fe621c5d28284b9c2f801b5d842eb7618a5"
+        },
+        {
+            "path": "mods/forestry_1.12.2-5.8.0.243.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/forestry_1.12.2-5.8.0.243.jar",
+            "size": 4656073,
+            "hash": "7e616ab2ec0db067f055b137aa73e3fe0e41a589"
+        },
+        {
+            "path": "mods/gravestone-1.10.1.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/gravestone-1.10.1.jar",
+            "size": 76022,
+            "hash": "8233e4fa39ea0742a5867b775745f01139a097eb"
+        },
+        {
+            "path": "mods/industrialforegoing-1.12.2-1.8.5-127.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/industrialforegoing-1.12.2-1.8.5-127.jar",
+            "size": 1126779,
+            "hash": "7ee4f3f4df66f381f4ba008c548a760e4a2ceee6"
+        },
+        {
+            "path": "mods/ironchest-1.12.2-7.0.40.824.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/ironchest-1.12.2-7.0.40.824.jar",
+            "size": 1101965,
+            "hash": "322b02ed9d6f20d9985f28f9d196e83704f9f6b3"
+        },
+        {
+            "path": "mods/jei_1.12.2-4.8.5.147.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/jei_1.12.2-4.8.5.147.jar",
+            "size": 537164,
+            "hash": "24f42ce87f5d74613fcf0cc0561049923932ea33"
+        },
+        {
+            "path": "mods/jeiintegration_1.12.2-1.5.1.36.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/jeiintegration_1.12.2-1.5.1.36.jar",
+            "size": 54046,
+            "hash": "05175f6ea3a036052ea9adf2027654d2d29b2764"
+        },
+        {
+            "path": "mods/journeymap-1.12.2-5.5.2.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/journeymap-1.12.2-5.5.2.jar",
+            "size": 1822850,
+            "hash": "13ddb4bef963c3512e50b1efa2c475ce2845d0ca"
+        },
+        {
+            "path": "mods/mcjtylib-1.12-2.6.3.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/mcjtylib-1.12-2.6.3.jar",
+            "size": 366615,
+            "hash": "906bc0a94cf08b56527fc51e8e51c75b72c4be72"
+        },
+        {
+            "path": "mods/notenoughwands-1.12-1.6.1.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/notenoughwands-1.12-1.6.1.jar",
+            "size": 167364,
+            "hash": "3705f79db320c3791be301ddcadedfc6e25c18f8"
+        },
+        {
+            "path": "mods/refinedstorage-1.5.31.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/refinedstorage-1.5.31.jar",
+            "size": 1750553,
+            "hash": "7abaf670a2eea02e99bfa6e7a346183b8ff42c73"
+        },
+        {
+            "path": "mods/rftools-1.12-7.30.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/rftools-1.12-7.30.jar",
+            "size": 2943581,
+            "hash": "7380a3128de4466ae3a4a7b42c6386461a901c2c"
+        },
+        {
+            "path": "mods/roots-2-0.104.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/roots-2-0.104.jar",
+            "size": 715808,
+            "hash": "9b1fdfdc67ee6a318edec43ec74fba1f3ecf6c37"
+        },
+        {
+            "path": "mods/skinmod-1.2.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/skinmod-1.2.jar",
+            "size": 21462,
+            "hash": "2f954a4c82f45e96f551ebe9226fd803760a1902"
+        },
+        {
+            "path": "mods/tesla-core-lib-1.12-1.0.13.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/tesla-core-lib-1.12-1.0.13.jar",
+            "size": 1140131,
+            "hash": "7dcae2b8a302965a3629989d1c2748a86e2500f7"
+        },
+        {
+            "path": "mods/theoneprobe-1.12-1.4.19.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/theoneprobe-1.12-1.4.19.jar",
+            "size": 296264,
+            "hash": "b52679aa982134ed38868fec9fb6727fbf326bec"
+        },
+        {
+            "path": "config/Guide-API/Guide-API.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/Guide-API/Guide-API.cfg",
+            "size": 1551,
+            "hash": "c4912ebfee3fac21d65ac34dcb006df084011031"
+        },
+        {
+            "path": "config/IntegrationForegoing.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/IntegrationForegoing.cfg",
+            "size": 569,
+            "hash": "0e30be0dd10f90e4167f24484f7a9c5fb68f957d"
+        },
+        {
+            "path": "config/InvTweaks.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/InvTweaks.cfg",
+            "size": 724,
+            "hash": "5ed57f300d22dca57031f1804ea333a4c1e8ab71"
+        },
+        {
+            "path": "config/InvTweaksRules.txt",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/InvTweaksRules.txt",
+            "size": 1237,
+            "hash": "b8b0fa632727aec4b607206db9977dd48074b056"
+        },
+        {
+            "path": "config/InvTweaksTree.txt",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/InvTweaksTree.txt",
+            "size": 62968,
+            "hash": "a4881cc54530a324a9d2b4c2e47d6ec82cc59bc0"
+        },
+        {
+            "path": "config/Mercurius.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/Mercurius.cfg",
+            "size": 3189,
+            "hash": "b384520faf250fd2d46d413d7bdb7a54cedf684f"
+        },
+        {
+            "path": "config/TinkerModules.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/TinkerModules.cfg",
+            "size": 540,
+            "hash": "c93dce1c17ef8a9b301f33144d74296d6e595195"
+        },
+        {
+            "path": "config/TinkerToolLeveling.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/TinkerToolLeveling.cfg",
+            "size": 1163,
+            "hash": "ef403f08667e60d39448f518c346c5792a508741"
+        },
+        {
+            "path": "config/aroma1997/aroma1997core.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/aroma1997/aroma1997core.cfg",
+            "size": 0,
+            "hash": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+        },
+        {
+            "path": "config/aroma1997/aroma1997sdimension.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/aroma1997/aroma1997sdimension.cfg",
+            "size": 757,
+            "hash": "e1686cc9d79d8261e8ebf4ba805a2e9bc0bbb3b4"
+        },
+        {
+            "path": "config/baubles.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/baubles.cfg",
+            "size": 154,
+            "hash": "7a7939dadbbeeadfae86662e6b2bbdd314f2e451"
+        },
+        {
+            "path": "config/betterbuilderswands.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/betterbuilderswands.cfg",
+            "size": 1946,
+            "hash": "6c209ae8cff094ced7669c089bebcf4691fd5ea9"
+        },
+        {
+            "path": "config/bibliocraft.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/bibliocraft.cfg",
+            "size": 5289,
+            "hash": "ff8a7155feec3f96f7f0038c9fe46a030cec3030"
+        },
+        {
+            "path": "config/bloodmagic/bloodmagic.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/bloodmagic/bloodmagic.cfg",
+            "size": 6268,
+            "hash": "7646634bdc4a8fbb2b631fa5a61ecc557993d4f6"
+        },
+        {
+            "path": "config/bloodmagic/meteors/diamond.json",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/bloodmagic/meteors/diamond.json",
+            "size": 671,
+            "hash": "694389fa93288f57c8b2dc673333b7110a572e2d"
+        },
+        {
+            "path": "config/bloodmagic/meteors/gold.json",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/bloodmagic/meteors/gold.json",
+            "size": 721,
+            "hash": "a1d6428efb48ec76f466224a7bb3d22a9183b953"
+        },
+        {
+            "path": "config/bloodmagic/meteors/iron.json",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/bloodmagic/meteors/iron.json",
+            "size": 722,
+            "hash": "3e7d6e08da15ea93fa864817c8fb7f85651e0cfe"
+        },
+        {
+            "path": "config/botania.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/botania.cfg",
+            "size": 8019,
+            "hash": "fe826dbeafed366bbd86a334a48396eb7595e285"
+        },
+        {
+            "path": "config/buildcraft/detailed.properties",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/buildcraft/detailed.properties",
+            "size": 434,
+            "hash": "5730da7a0d4cad1786a5c6e1c52bcf6ae3ec94bf"
+        },
+        {
+            "path": "config/buildcraft/gui.json",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/buildcraft/gui.json",
+            "size": 359,
+            "hash": "3e1d273e8af685062b01117a749510e741cc7d14"
+        },
+        {
+            "path": "config/buildcraft/main.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/buildcraft/main.cfg",
+            "size": 3615,
+            "hash": "6735239af76035cea37fd82bee551f33cf0816d1"
+        },
+        {
+            "path": "config/buildcraft/objects.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/buildcraft/objects.cfg",
+            "size": 1467,
+            "hash": "c92df98dda6dbcbf8438c8b074d99bb53da9f99f"
+        },
+        {
+            "path": "config/cd4017be/automatedRedstone.rcp",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cd4017be/automatedRedstone.rcp",
+            "size": 4061,
+            "hash": "bdd6b35ee6b3b057112a4373ca5fa739f75a90e2"
+        },
+        {
+            "path": "config/cd4017be/compiled.dat",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cd4017be/compiled.dat",
+            "size": 4170,
+            "hash": "fe556c1f4e949a167c505783d24150776889f9b3"
+        },
+        {
+            "path": "config/cd4017be/core.rcp",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cd4017be/core.rcp",
+            "size": 444,
+            "hash": "2bea4ca510490a1f27aad71121d6c89eb1e75773"
+        },
+        {
+            "path": "config/chisel.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/chisel.cfg",
+            "size": 4589,
+            "hash": "063bcf000dcc29b6ca2992aa9c6f82a1a6222311"
+        },
+        {
+            "path": "config/chiselsandbits.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/chiselsandbits.cfg",
+            "size": 13068,
+            "hash": "815465bc52cc751db0b9b81e5143be1d27c437fe"
+        },
+        {
+            "path": "config/chiselsandbits_clipboard.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/chiselsandbits_clipboard.cfg",
+            "size": 0,
+            "hash": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+        },
+        {
+            "path": "config/codechicken/supporters.json",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/codechicken/supporters.json",
+            "size": 488,
+            "hash": "db8ddb9822fcc4f7bebe70bb06747116d6eb67dd"
+        },
+        {
+            "path": "config/codechicken/supporters.marker",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/codechicken/supporters.marker",
+            "size": 13,
+            "hash": "2ccb79e3a5bd4688f8a0bdcc7a30950d5dbf309e"
+        },
+        {
+            "path": "config/cofh/core/client.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/core/client.cfg",
+            "size": 1502,
+            "hash": "1c4c34c8d7d6862acf377b9a1cd18031a153872e"
+        },
+        {
+            "path": "config/cofh/core/common.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/core/common.cfg",
+            "size": 3006,
+            "hash": "73e362ad49fd51350746444ab9966682b51d42cc"
+        },
+        {
+            "path": "config/cofh/core/friends.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/core/friends.cfg",
+            "size": 0,
+            "hash": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+        },
+        {
+            "path": "config/cofh/redstonearsenal/client.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/redstonearsenal/client.cfg",
+            "size": 60,
+            "hash": "686a635676e3c7d807866a221741bd93c531fbe9"
+        },
+        {
+            "path": "config/cofh/redstonearsenal/common.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/redstonearsenal/common.cfg",
+            "size": 738,
+            "hash": "078aa8dbf34b5220d884ac58422662af71a70b3a"
+        },
+        {
+            "path": "config/cofh/thermaldynamics/client.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/thermaldynamics/client.cfg",
+            "size": 641,
+            "hash": "4b1f3841c988422c03e9229d8ab536b80bcae283"
+        },
+        {
+            "path": "config/cofh/thermaldynamics/common.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/thermaldynamics/common.cfg",
+            "size": 900,
+            "hash": "206877b25e9977ce5ac3902c5635d498a3640e0c"
+        },
+        {
+            "path": "config/cofh/thermaldynamics/cover_blacklist.json",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/thermaldynamics/cover_blacklist.json",
+            "size": 2452,
+            "hash": "69b7ab86b6caddd3d129fc69d70719e2e8376d11"
+        },
+        {
+            "path": "config/cofh/thermalexpansion/client.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/thermalexpansion/client.cfg",
+            "size": 1882,
+            "hash": "db32a84f565801e0b565ee95c26a5171d4228699"
+        },
+        {
+            "path": "config/cofh/thermalexpansion/common.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/thermalexpansion/common.cfg",
+            "size": 17809,
+            "hash": "0e470b0150d040976c6ea1b64c8797f7733a8dae"
+        },
+        {
+            "path": "config/cofh/thermalexpansion/florbs.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/thermalexpansion/florbs.cfg",
+            "size": 350,
+            "hash": "64b552dda088685926e12ec495cc816a73d90293"
+        },
+        {
+            "path": "config/cofh/thermalexpansion/morbs.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/thermalexpansion/morbs.cfg",
+            "size": 428,
+            "hash": "8587baf8405d34ceccf11e0a313227e26677e44d"
+        },
+        {
+            "path": "config/cofh/thermalfoundation/client.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/thermalfoundation/client.cfg",
+            "size": 648,
+            "hash": "09824d0d4674dd66ce00711ae4021e15c1b5404f"
+        },
+        {
+            "path": "config/cofh/thermalfoundation/common.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/thermalfoundation/common.cfg",
+            "size": 14311,
+            "hash": "647766d885ab6608c4c3d990bac89682ea443532"
+        },
+        {
+            "path": "config/cofh/thermalfoundation/lexicon-whitelist.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/thermalfoundation/lexicon-whitelist.cfg",
+            "size": 5549,
+            "hash": "b3d8f24f5586e155ab4271d8592feb4386e678f3"
+        },
+        {
+            "path": "config/cofh/world/00_minecraft.json",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/world/00_minecraft.json",
+            "size": 6615,
+            "hash": "b57d57bfebb5309b8248b83eef31c0576650944f"
+        },
+        {
+            "path": "config/cofh/world/01_thermalfoundation_ores.json",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/world/01_thermalfoundation_ores.json",
+            "size": 3175,
+            "hash": "10227a24142fdbbbd2a21d038ea4e25eaf7310dc"
+        },
+        {
+            "path": "config/cofh/world/02_thermalfoundation_oil.json",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/world/02_thermalfoundation_oil.json",
+            "size": 3088,
+            "hash": "8e31dea8d05c2b4507ca8cd180463206130bb762"
+        },
+        {
+            "path": "config/cofh/world/03_thermalfoundation_clathrates.json",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/world/03_thermalfoundation_clathrates.json",
+            "size": 1753,
+            "hash": "01b6abb030ec6b2b038805acb6a61db4814ae101"
+        },
+        {
+            "path": "config/cofh/world/config.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cofh/world/config.cfg",
+            "size": 1153,
+            "hash": "cd6653507237c5996702f5799a93962706d61654"
+        },
+        {
+            "path": "config/cookingforblockheads.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/cookingforblockheads.cfg",
+            "size": 1315,
+            "hash": "7d01ed27c62a13a9ad7155e37e3e5907e375fce1"
+        },
+        {
+            "path": "config/ctm.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/ctm.cfg",
+            "size": 229,
+            "hash": "595de6e0845d3ab5535a810c45382d82b64683cb"
+        },
+        {
+            "path": "config/enderstorage.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/enderstorage.cfg",
+            "size": 653,
+            "hash": "cae09ceab68d579b7a188b17a42e54e2b0ee9c8f"
+        },
+        {
+            "path": "config/extrautils2.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/extrautils2.cfg",
+            "size": 3346,
+            "hash": "fa2e5d11a003ac8e79d9fefdf022820e407417f4"
+        },
+        {
+            "path": "config/foamfix.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/foamfix.cfg",
+            "size": 5227,
+            "hash": "f9c24cfac359745facf050ae871d7431963ed6e1"
+        },
+        {
+            "path": "config/forestry/apiculture.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/apiculture.cfg",
+            "size": 783,
+            "hash": "3911c9a8bf18e67ea60aec66389d6149598bff04"
+        },
+        {
+            "path": "config/forestry/backpacks.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/backpacks.cfg",
+            "size": 10711,
+            "hash": "7b65191473b9d22a2f6ebf6a398825d353293d1d"
+        },
+        {
+            "path": "config/forestry/binnie-mods.conf",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/binnie-mods.conf",
+            "size": 347,
+            "hash": "2a70f091fc9696a65b1f37bfb7b5d271b07c65bb"
+        },
+        {
+            "path": "config/forestry/binniecore/main.conf",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/binniecore/main.conf",
+            "size": 22,
+            "hash": "d68983e0445cc7243a238a837ca133a19c286f56"
+        },
+        {
+            "path": "config/forestry/botany/modules.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/botany/modules.cfg",
+            "size": 1208,
+            "hash": "680b39c27c573d98b3af119f29bbaf54e5165489"
+        },
+        {
+            "path": "config/forestry/common.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/common.cfg",
+            "size": 7127,
+            "hash": "a7bfa99ac854e717727588da1e77c8874a52af44"
+        },
+        {
+            "path": "config/forestry/extrabees/main.conf",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/extrabees/main.conf",
+            "size": 950,
+            "hash": "62ba2a66a2776bbe0b8c6645cdd3f879b1b127d3"
+        },
+        {
+            "path": "config/forestry/extratrees/main.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/extratrees/main.cfg",
+            "size": 259,
+            "hash": "0c95f35dca978dfa8b490b2552ca97255d3f21dd"
+        },
+        {
+            "path": "config/forestry/extratrees/modules.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/extratrees/modules.cfg",
+            "size": 1402,
+            "hash": "85267b8cb26119976f6eaafd80b46dd424b15393"
+        },
+        {
+            "path": "config/forestry/farm.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/farm.cfg",
+            "size": 389,
+            "hash": "e7046faf5a0bffff2144047abf36d7b5a8b0b236"
+        },
+        {
+            "path": "config/forestry/fluids.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/fluids.cfg",
+            "size": 1412,
+            "hash": "2fc223f5eb33aed7dc65a67ecf4da4176c05a944"
+        },
+        {
+            "path": "config/forestry/gamemodes/EASY.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/gamemodes/EASY.cfg",
+            "size": 4659,
+            "hash": "5043cd72be6910963b920a58b81ab2371bd8bdef"
+        },
+        {
+            "path": "config/forestry/gamemodes/HARD.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/gamemodes/HARD.cfg",
+            "size": 4678,
+            "hash": "47120dbdb4e288a0368a4ff2e20b1edb6e5ba042"
+        },
+        {
+            "path": "config/forestry/gamemodes/NORMAL.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/gamemodes/NORMAL.cfg",
+            "size": 4695,
+            "hash": "b21c64904fb33e77534a8f358a26e49cf04307e8"
+        },
+        {
+            "path": "config/forestry/gamemodes/OP.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/gamemodes/OP.cfg",
+            "size": 4711,
+            "hash": "b10e686b7c1671fbcb4685dc924beb36591d0b91"
+        },
+        {
+            "path": "config/forestry/lepidopterology.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/lepidopterology.cfg",
+            "size": 2995,
+            "hash": "bd7b76bcdd0507110e4726c4a685aed6e4ff1978"
+        },
+        {
+            "path": "config/forestry/modules.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forestry/modules.cfg",
+            "size": 4624,
+            "hash": "fd5bb126926484df6e18f83d4f31d0d97221566f"
+        },
+        {
+            "path": "config/forge.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forge.cfg",
+            "size": 3524,
+            "hash": "a1048cc573f74260eb1dcde1fb690750df2f55a6"
+        },
+        {
+            "path": "config/forgeChunkLoading.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/forgeChunkLoading.cfg",
+            "size": 2155,
+            "hash": "0f64846384f702d322f2f07e1ea6ad7c407d7dfc"
+        },
+        {
+            "path": "config/gravestone.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/gravestone.cfg",
+            "size": 2132,
+            "hash": "40c4fe6e94b8584d63077b8cf584d51ec133ca2d"
+        },
+        {
+            "path": "config/harvestcraft.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/harvestcraft.cfg",
+            "size": 13404,
+            "hash": "e09acc0ce3daedaffb56ef3a898536c470cbb883"
+        },
+        {
+            "path": "config/immersiveengineering.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/immersiveengineering.cfg",
+            "size": 20324,
+            "hash": "e6246866999f45fc9856005391ef9d14c45d8f99"
+        },
+        {
+            "path": "config/industrialforegoing.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/industrialforegoing.cfg",
+            "size": 22828,
+            "hash": "29e6d35220d95d24e5ca1c9e3cefb16126b35ab7"
+        },
+        {
+            "path": "config/jei/itemBlacklist.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/jei/itemBlacklist.cfg",
+            "size": 649,
+            "hash": "b85de1b7cf4b9af2d2f5d4b2c134061f3a53d1bd"
+        },
+        {
+            "path": "config/jei/jei.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/jei/jei.cfg",
+            "size": 2860,
+            "hash": "712248df6372af65d7b5bdfcc46cdfa7348ca738"
+        },
+        {
+            "path": "config/jei/searchColors.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/jei/searchColors.cfg",
+            "size": 1941,
+            "hash": "895f31ad3f8dbb9a81fde0d5981d733025aab099"
+        },
+        {
+            "path": "config/jei/worldSettings.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/jei/worldSettings.cfg",
+            "size": 1067,
+            "hash": "c8946e4b81630882b3d7f594db43b74e8eb44600"
+        },
+        {
+            "path": "config/jeiintegration.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/jeiintegration.cfg",
+            "size": 2382,
+            "hash": "2c3b888de4db7c3babb8b566952e663be0f87c7b"
+        },
+        {
+            "path": "config/jeresources/jeresources.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/jeresources/jeresources.cfg",
+            "size": 457,
+            "hash": "f094a6ca222f0342e666b07ff11d1a7daf73d1a6"
+        },
+        {
+            "path": "config/journeymap_ModInfo.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/journeymap_ModInfo.cfg",
+            "size": 368,
+            "hash": "a55980ab565ad03212f8e4600e31ec1851bd4dbe"
+        },
+        {
+            "path": "config/mcjtylib.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/mcjtylib.cfg",
+            "size": 7039,
+            "hash": "d1bc019ec2f7ed10686c5c3cec648bad7bab5666"
+        },
+        {
+            "path": "config/mekanism.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/mekanism.cfg",
+            "size": 12956,
+            "hash": "e9245565482127101e41330d8cb6d764e20d05bf"
+        },
+        {
+            "path": "config/mekanism/BoxBlacklist.txt",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/mekanism/BoxBlacklist.txt",
+            "size": 162,
+            "hash": "001f2b47151520adfd755485e8f177c4ec39c7ad"
+        },
+        {
+            "path": "config/notenoughwands.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/notenoughwands.cfg",
+            "size": 12289,
+            "hash": "4ef63ef18a8034a87553f72867794716b80e5489"
+        },
+        {
+            "path": "config/opencomputers/default.recipes",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/opencomputers/default.recipes",
+            "size": 22635,
+            "hash": "9ba7064b26c68f55322cb9bf0e556c6235fde064"
+        },
+        {
+            "path": "config/opencomputers/gregtech.recipes",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/opencomputers/gregtech.recipes",
+            "size": 12592,
+            "hash": "f2a3c17b4b4624b9ff423788b5fbfef10099ad3d"
+        },
+        {
+            "path": "config/opencomputers/hardmode.recipes",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/opencomputers/hardmode.recipes",
+            "size": 13842,
+            "hash": "10389d4e1f0f7710c13b57f0ced69a174d553caa"
+        },
+        {
+            "path": "config/opencomputers/peaceful.recipes",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/opencomputers/peaceful.recipes",
+            "size": 2577,
+            "hash": "c76352e55c999ef892b484d962c2825e5f6a235e"
+        },
+        {
+            "path": "config/opencomputers/settings.conf",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/opencomputers/settings.conf",
+            "size": 70633,
+            "hash": "9f23c4fa6e29fd3cab4b7ad2249f9ef0ac45871e"
+        },
+        {
+            "path": "config/opencomputers/user.recipes",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/opencomputers/user.recipes",
+            "size": 1000,
+            "hash": "69c4632ba0da7ad03d239e1d2ae418421a56c911"
+        },
+        {
+            "path": "config/psi.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/psi.cfg",
+            "size": 1597,
+            "hash": "16c2ad98a2a200926a75fb178e37f166251e61a3"
+        },
+        {
+            "path": "config/quark.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/quark.cfg",
+            "size": 71421,
+            "hash": "44091a7c0b5aeffcb536703d6d598862a05a7d0b"
+        },
+        {
+            "path": "config/refinedstorage.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/refinedstorage.cfg",
+            "size": 7105,
+            "hash": "422bf33ccad40c4bfe40d080962d10e80b82b543"
+        },
+        {
+            "path": "config/rftools/rftools.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/rftools/rftools.cfg",
+            "size": 59883,
+            "hash": "6c1ca9d2addec2ba18f15624487cf7ce7ce127fd"
+        },
+        {
+            "path": "config/roots.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/roots.cfg",
+            "size": 2458,
+            "hash": "c32690c4f65051d66955e67b3d5fc2c7fc6bdced"
+        },
+        {
+            "path": "config/splash.properties",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/splash.properties",
+            "size": 358,
+            "hash": "fc56c855de544abfec264afdc58705ab8f97cdc6"
+        },
+        {
+            "path": "config/sstow/ShardTiers.json",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/sstow/ShardTiers.json",
+            "size": 1045,
+            "hash": "d2f6c765be822f9078117d66543310930d657194"
+        },
+        {
+            "path": "config/sstow/SoulShards.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/sstow/SoulShards.cfg",
+            "size": 6414,
+            "hash": "0bdaa38322277f185cca4f61df9e36c6432435b9"
+        },
+        {
+            "path": "config/storagedrawers.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/storagedrawers.cfg",
+            "size": 2449,
+            "hash": "91c87af848f250c568cbc71cca527e8c7fd50a46"
+        },
+        {
+            "path": "config/tconstruct.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/tconstruct.cfg",
+            "size": 4228,
+            "hash": "db02b852a36106f2f26355cd916fd943586a10bb"
+        },
+        {
+            "path": "config/teslacorelib.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/teslacorelib.cfg",
+            "size": 2075,
+            "hash": "29db8fc667be2a122878c3e63107cb840ef6cd36"
+        },
+        {
+            "path": "config/theoneprobe.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/theoneprobe.cfg",
+            "size": 12061,
+            "hash": "0b8560ba63b4243a369469b8c3e2c020ce1c4b0a"
+        },
+        {
+            "path": "config/totemic.cfg",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/config/totemic.cfg",
+            "size": 553,
+            "hash": "e89f30dc1ac9dd2c51219ea27f01140fc262931b"
+        },
+        {
+            "path": "scripts/prova.txt",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/scripts/prova.txt",
+            "size": 63,
+            "hash": "170e9b1931651174df81262efa4f3b4393f227d8"
+        }
+    ]
+}

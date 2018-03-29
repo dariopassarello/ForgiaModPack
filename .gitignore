@@ -9,6 +9,7 @@ saves/
 shaderpacks/
 .mixin.out/
 fonts/
+HammerCore/
 
 # File da ignorare nel root
 
@@ -17,3 +18,4 @@ fonts/
 options.txt
 optionsof.txt
 *.json
+crafttweaker.log

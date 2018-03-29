@@ -11,7 +11,7 @@ urlConfig = url + "/repos/dariopassarello/ForgiaModPack/contents/config"
 urlAuth = url + "/repos/d/ForgiaModPack"
 urlRate = url + "/rate_limit"
 user = "spiritodellaforgia@gmail.com"
-password = "forgia0612" #Password Here
+password = "******" #Password Here
 
 
 

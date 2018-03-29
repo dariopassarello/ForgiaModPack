@@ -19,3 +19,7 @@ options.txt
 optionsof.txt
 *.json
 crafttweaker.log
+
+# Per il manifest
+
+!manifest.json

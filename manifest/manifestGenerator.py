@@ -79,5 +79,5 @@ ogg['files'] = []
 jsonOut = getTreeJson(urlBase,['mods','config'],ogg)
 print("SCAN COMPLETED\nHERE'S THE JSON:\n",jsonOut)
 print("You can find the json in manifest.json")
-f = open("manifest.json","w")
+f = open("manifest/manifest.json","w")
 f.write(jsonOut)

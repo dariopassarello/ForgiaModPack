@@ -53,7 +53,7 @@ passaggio.
 
 Scaricate il ForgiAgent dal seguente link:
 
-http://www.mediafire.com/file/park7ykia4g1kxs/forgiagent.jar
+https://github.com/dariopassarello/ForgiaModPack/blob/dev/forgiagent/forgiagent-v1.0.jar?raw=true
 
 Apritelo e selezionate sotto "Select forge profile" il vostro profilo
 (Questo sarà quello standard di forge che si chiamerà "forge" oppure installatelo sul profilo

@@ -2,7 +2,7 @@
     "hashes": [
         {
             "name": "mods",
-            "hash": "0c28812c3a590e22458c0a908c2d3f47c8a7a40d"
+            "hash": "109cfaf2cfa367e00ae52f1b4248c364c49a8965"
         },
         {
             "name": "config",
@@ -177,10 +177,10 @@
             "hash": "6ca0f28abaca840f7c3e84991b47c121b29646cf"
         },
         {
-            "path": "mods/Forgia Utils - 1.4.jar",
-            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Forgia%20Utils%20-%201.4.jar",
-            "size": 32922,
-            "hash": "221a70fa9ba63fc5e50fa99d5a384f568803fe8c"
+            "path": "mods/Forgia Utils-1.5.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/Forgia%20Utils-1.5.jar",
+            "size": 36744,
+            "hash": "c58825103e6f2c4f45dcd7c9fac690fe044b710e"
         },
         {
             "path": "mods/Guide-API-1.12-2.1.4-57.jar",

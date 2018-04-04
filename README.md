@@ -61,12 +61,32 @@ creato nel punto opzionale del passo precedente)
 
 Premete Install e incrociate le dita. Se non funziona qualcosa notificate gli admin.
 
-### Passo 5: Avviare il gioco
+### Paso 5: Avviare il gioco
 
 L'installazione dovrebbe essere completata, avviate il launcher di minecraft e avviate il
 profilo su cui avete installato il ForgiAgent. Aspettate il caricamento e provate
 ad accedere al server.
 
+## Recuperare i waypoint e la mappa del mondo
+Se avete già giocato sul server potreste essere interessati a recuperare i waypoint e la mappa che avete creato in precedenza siccome avendo cambiato cartella di installazione di minecraft questi non saranno più disponibili.
+Per ripristinarle seguite le seguenti istruzioni:
+
+### Passo 1: Trovare le vecchie mappe
+
+Andate nella cartella di installazione del vecchio launcher:
+- 'C:\Users\<user>\Documents\ForgiaCraft\instances\ForgiaCraft\minecraft' (per windows)
+- '\.ForgiaCraft\instances\ForgiaCraft\minecraft' (per mac e linux)
+Entrate quindi nella cartella '\journeymap\data\mp'
+Se in '\journeymap\data\mp' è presente una sola cartella allora in quella cartella sono presenti tutte le mappe e i waypoint. Se sono presenti più cartelle, quella da copiare è quella che ha lo stesso nome con il quale avete salvato il server di forgiacraft nel menù multiplayer di minecraft 
+
+### Passo 2: Copiare i files nella nuova cartella di minecraft
+
+Una volta trovata la cartella giusta copiatela nella cartella '%appdata%\.minecraft\journeymap\data\mp'. Se avete cambiato la cartella di installazione di Minecraft sostituite &appdata%\.minecraft con il percorso alla vostra cartella di installazione.
+
+### Passo 3: Prima di entrare nel server
+
+Prima di entrare nel server assicuratevi che il nome con cui avete salvato il server nel menù multiplayer di minecraft sia uguale a quello con cui avete chiamato il server nella vecchia installazione di minecraft.
+Se non è così rinominate il server con il vecchio nome
 
 
 

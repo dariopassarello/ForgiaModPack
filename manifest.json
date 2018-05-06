@@ -2,7 +2,7 @@
     "hashes": [
         {
             "name": "mods",
-            "hash": "109cfaf2cfa367e00ae52f1b4248c364c49a8965"
+            "hash": "f2d158da8e63c148554cc740b22a7c033caa0606"
         },
         {
             "name": "config",
@@ -207,10 +207,10 @@
             "hash": "c49fc0761e484f7374bf335a3e52e335ece70c3f"
         },
         {
-            "path": "mods/ImmersiveEngineering-0.12-76.jar",
-            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/ImmersiveEngineering-0.12-76.jar",
-            "size": 5937804,
-            "hash": "4f49ce1025a7c65eae6a7bfd30f27bfc361e7d8f"
+            "path": "mods/ImmersiveEngineering-0.12-81.jar",
+            "download_url": "https://raw.githubusercontent.com/dariopassarello/ForgiaModPack/master/mods/ImmersiveEngineering-0.12-81.jar",
+            "size": 5994486,
+            "hash": "a36f14fbb137ca953a1f448a9dfd7552861f7c6a"
         },
         {
             "path": "mods/IntegrationForegoing-1.12.2-1.5.jar",

@@ -5,6 +5,8 @@ di ForgiaCraft. Per quanto riguarda l'IP chiedete prima agli admin (Truong Kien 
 
 ### Passo 1: Installare Java 8 (64-bit)
 
+# IMPORTANTE!!! PER L'ULTIMO UPDATE DEL SERVER (28 MAGGIO 2018) BISOGNA AGGIORNARE JAVA, ASSICURANDOSI CHE SIA SEMPRE LA VERSIONE 8 E NON LA 9!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Per qualsiasi cosa relativa a Minecraft e al server è strettamente necessario che sia installato Java.
 Nel link sotto trovate tutti i download: SCARICATE LA VERSIONE 64-BIT per il vostro sistema operativo
 
@@ -32,11 +34,11 @@ Dopo averlo scaricato, aprite il launcher per verificare che tutto sia andato co
 file necessari successivamente.
 Appena si apre la schermata iniziale di Minecraft potete chiudere il gioco e il launcher.
 
-### Passo 3: Installazione di Forge
+### Passo 3: Installazione di Forge (Aggiornato al 28 Maggio 2018)
 
 Scaricate Forge (Versione per 1.12.2 - 14.23.2.2640) dal seguente link:
 
-http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.2.2640/forge-1.12.2-14.23.2.2640-installer.jar
+https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.4.2703/forge-1.12.2-14.23.4.2703-installer.jar
 
 Installatelo facendo doppio click.
 
